@@ -1,0 +1,38 @@
+commit 958017942b03315ac8e2ce29b327fe63a3922793
+Merge: 46bdbc7 07b307e
+Author: Zaineb Marzaq <zainebmar01@gmail.com>
+Date:   Wed Nov 20 21:51:36 2024 +0100
+
+    Merge pull request #1 from angel-022/%USERNAME-new_feature
+    
+    %username new feature
+
+commit 07b307e6996a4ccbe5766bc611744ff19b5477d7
+Author: angel-022 <zainebmar01@gmail.com>
+Date:   Wed Nov 20 21:40:24 2024 +0100
+
+    adding a gitignore to thr new feature branch
+
+commit 8ca03d81fd69fdde285fdc496f1c301879a27c05
+Author: angel-022 <zainebmar01@gmail.com>
+Date:   Wed Nov 20 21:33:00 2024 +0100
+
+    adding a gitignored to the new freature branch
+
+commit 46bdbc701b38f3a3bf6b3d93180008d41b3935d4
+Author: angel-022 <zainebmar01@gmail.com>
+Date:   Wed Nov 20 21:18:56 2024 +0100
+
+    add a test photo inside dev branch
+
+commit 4c079ba9a9851080027cddacaceb8a7f83dda6bc
+Author: angel-022 <zainebmar01@gmail.com>
+Date:   Wed Nov 20 21:04:10 2024 +0100
+
+    add README inside Task1 on master branch
+
+commit b81d95c7bab1328f582a7b3de85c17df14421bcc
+Author: angel-022 <zainebmar01@gmail.com>
+Date:   Wed Nov 20 20:11:09 2024 +0100
+
+    Initial commit
