@@ -35,15 +35,11 @@ echo "this is the new readme" > README.md
 git commit -m "edit the readme file in the %USERNAME-new_feature"
 git revert HEAD
 git commit -m "Revert last commit"
+
 git checkout master
 git log > log.txt
 git commit -m "add git log output to log.txt on the master branch"
 git push 
-
-
-
-
-
-
-
-
+git branch -d %USERNAME-new_feature
+git push origin --delete %USERNAME-new_feature
+git fetch --prune
